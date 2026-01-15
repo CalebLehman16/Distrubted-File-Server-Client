@@ -1,0 +1,1 @@
+This is a Distributed File Service with a client and server setup. The client can make GET, PUT, or ls requests, in which the connected server chunks or accumulates the file from the other servers, allowing for redundancy
